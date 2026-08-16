@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://filterbuyguide.com/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://filterbuyguide.com/filterbuyguide.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-what-wed-buy-2026.html</loc><lastmod>2026-07-13</lastmod></url>
-  <url><loc>https://filterbuyguide.com/truth-about-filterbuyguide-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-tested-ranked-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-practical-guide-2026.html</loc><lastmod>2026-07-17</lastmod></url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-buying-guide-2026.html</loc><lastmod>2026-07-20</lastmod></url>
-  <url><loc>https://filterbuyguide.com/how-to-pick-filterbuyguide-2026.html</loc><lastmod>2026-07-21</lastmod></url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-market-2026.html</loc><lastmod>2026-07-23</lastmod></url>
-  <url><loc>https://filterbuyguide.com/filterbuyguide-what-buyers-need-2026.html</loc><lastmod>2026-08-07</lastmod></url>
-  <url><loc>https://filterbuyguide.com/no-bs-filterbuyguide-guide-2026.html</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-buying-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-market-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-practical-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-tested-ranked-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-what-buyers-need-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/filterbuyguide-what-wed-buy-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/how-to-pick-filterbuyguide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/no-bs-filterbuyguide-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/privacy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://filterbuyguide.com/truth-about-filterbuyguide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
